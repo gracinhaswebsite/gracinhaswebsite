@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gracinhaswebsite!
+- 👋 Hi, I’m Sara!
 - 👀 I’m interested in web design, music, reading, nature and much more.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on something related to the multimedia world.
