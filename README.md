@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sara!
-- 👀 I’m interested in web design, music, reading, nature and much more.
-- 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on something related to the multimedia world.
-<!--- - 📫 How to reach me ... --->
+- 👀 I’m interested in web design & development, music, reading, nature and much more.
+- 🌱 I’m currently studying UX/UI Design.
+- 💞️ I’m looking to become a web designer someday.
+<!---
+- 📫 How to reach me ... --->
 
 <!---
 gracinhaswebsite/gracinhaswebsite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
